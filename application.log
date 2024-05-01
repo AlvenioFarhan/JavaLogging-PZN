@@ -1,0 +1,51 @@
+22:19:18.034 [main] TRACE p.logging.LevelTest - Trace
+22:19:18.057 [main] DEBUG p.logging.LevelTest - Debug
+22:19:18.059 [main] INFO  p.logging.LevelTest - Info
+22:19:18.069 [main] WARN  p.logging.LevelTest - Warning
+22:19:18.070 [main] ERROR p.logging.LevelTest - Error
+22:27:55.963 [main] TRACE p.logging.LevelTest - Trace
+22:27:55.975 [main] DEBUG p.logging.LevelTest - Debug
+22:27:55.977 [main] INFO  p.logging.LevelTest - Info
+22:27:55.981 [main] WARN  p.logging.LevelTest - Warning
+22:27:55.982 [main] ERROR p.logging.LevelTest - Error
+2024-04-30 22:39:50.378 [main] TRACE p.logging.LevelTest - Trace
+2024-04-30 22:39:50.389 [main] DEBUG p.logging.LevelTest - Debug
+2024-04-30 22:39:50.391 [main] INFO  p.logging.LevelTest - Info
+2024-04-30 22:39:50.398 [main] WARN  p.logging.LevelTest - Warning
+2024-04-30 22:39:50.399 [main] ERROR p.logging.LevelTest - Error
+2024-04-30 22:50:19.959 [main] INFO  p.logging.MyController - cde5df0e-a983-4c0f-b761-d6835ee0d384 - Controller Save
+2024-04-30 22:50:20.018 [main] INFO  p.logging.MyService - cde5df0e-a983-4c0f-b761-d6835ee0d384 - Service Save
+2024-04-30 22:50:20.036 [main] INFO  p.logging.MyRepository - cde5df0e-a983-4c0f-b761-d6835ee0d384 - Repository Save
+2024-04-30 22:58:55.198 [main] INFO  p.logging.MyController - [9491829f-f7ee-42dc-bd0d-5f3103d71048] - Controller Save
+2024-04-30 22:58:55.211 [main] INFO  p.logging.MyService - [9491829f-f7ee-42dc-bd0d-5f3103d71048] - Service Save
+2024-04-30 22:58:55.214 [main] INFO  p.logging.MyRepository - [9491829f-f7ee-42dc-bd0d-5f3103d71048] - Repository Save
+2024-04-30 23:03:46.265 [Thread-9] INFO  p.logging.MyController - [5338a4de-5122-457a-9998-c6ab46a224af] - Controller Save
+2024-04-30 23:03:46.264 [Thread-1] INFO  p.logging.MyController - [1feba4bc-e39d-4805-a77f-6e7ba0a27395] - Controller Save
+2024-04-30 23:03:46.265 [Thread-2] INFO  p.logging.MyController - [157d9ff7-196c-4ac5-bf76-07dbd9e388d2] - Controller Save
+2024-04-30 23:03:46.266 [Thread-7] INFO  p.logging.MyController - [c49ac5c2-bf35-4e7c-bce7-b2c88b9626db] - Controller Save
+2024-04-30 23:03:46.279 [Thread-2] INFO  p.logging.MyService - [157d9ff7-196c-4ac5-bf76-07dbd9e388d2] - Service Save
+2024-04-30 23:03:46.280 [Thread-2] INFO  p.logging.MyRepository - [157d9ff7-196c-4ac5-bf76-07dbd9e388d2] - Repository Save
+2024-04-30 23:03:46.278 [Thread-1] INFO  p.logging.MyService - [1feba4bc-e39d-4805-a77f-6e7ba0a27395] - Service Save
+2024-04-30 23:03:46.282 [Thread-1] INFO  p.logging.MyRepository - [1feba4bc-e39d-4805-a77f-6e7ba0a27395] - Repository Save
+2024-04-30 23:03:46.265 [Thread-5] INFO  p.logging.MyController - [97134068-1f85-4952-880a-403599df224e] - Controller Save
+2024-04-30 23:03:46.265 [Thread-8] INFO  p.logging.MyController - [bf457a8b-0959-4f54-8754-093e0ff61a5f] - Controller Save
+2024-04-30 23:03:46.283 [Thread-8] INFO  p.logging.MyService - [bf457a8b-0959-4f54-8754-093e0ff61a5f] - Service Save
+2024-04-30 23:03:46.283 [Thread-5] INFO  p.logging.MyService - [97134068-1f85-4952-880a-403599df224e] - Service Save
+2024-04-30 23:03:46.284 [Thread-8] INFO  p.logging.MyRepository - [bf457a8b-0959-4f54-8754-093e0ff61a5f] - Repository Save
+2024-04-30 23:03:46.277 [Thread-9] INFO  p.logging.MyService - [5338a4de-5122-457a-9998-c6ab46a224af] - Service Save
+2024-04-30 23:03:46.290 [Thread-9] INFO  p.logging.MyRepository - [5338a4de-5122-457a-9998-c6ab46a224af] - Repository Save
+2024-04-30 23:03:46.284 [Thread-5] INFO  p.logging.MyRepository - [97134068-1f85-4952-880a-403599df224e] - Repository Save
+2024-04-30 23:03:46.265 [Thread-6] INFO  p.logging.MyController - [ca47906d-20ab-410e-9740-a0b833c9036e] - Controller Save
+2024-04-30 23:03:46.292 [Thread-6] INFO  p.logging.MyService - [ca47906d-20ab-410e-9740-a0b833c9036e] - Service Save
+2024-04-30 23:03:46.265 [Thread-4] INFO  p.logging.MyController - [1117a021-3e65-41f8-b91b-6d5226543a0c] - Controller Save
+2024-04-30 23:03:46.293 [Thread-6] INFO  p.logging.MyRepository - [ca47906d-20ab-410e-9740-a0b833c9036e] - Repository Save
+2024-04-30 23:03:46.279 [Thread-7] INFO  p.logging.MyService - [c49ac5c2-bf35-4e7c-bce7-b2c88b9626db] - Service Save
+2024-04-30 23:03:46.267 [Thread-3] INFO  p.logging.MyController - [b7a84b79-af77-4f00-a4db-93d4e198c77c] - Controller Save
+2024-04-30 23:03:46.264 [Thread-0] INFO  p.logging.MyController - [27d7b367-ddeb-43a2-aa61-c15c67b65046] - Controller Save
+2024-04-30 23:03:46.293 [Thread-4] INFO  p.logging.MyService - [1117a021-3e65-41f8-b91b-6d5226543a0c] - Service Save
+2024-04-30 23:03:46.296 [Thread-0] INFO  p.logging.MyService - [27d7b367-ddeb-43a2-aa61-c15c67b65046] - Service Save
+2024-04-30 23:03:46.296 [Thread-0] INFO  p.logging.MyRepository - [27d7b367-ddeb-43a2-aa61-c15c67b65046] - Repository Save
+2024-04-30 23:03:46.294 [Thread-7] INFO  p.logging.MyRepository - [c49ac5c2-bf35-4e7c-bce7-b2c88b9626db] - Repository Save
+2024-04-30 23:03:46.295 [Thread-3] INFO  p.logging.MyService - [b7a84b79-af77-4f00-a4db-93d4e198c77c] - Service Save
+2024-04-30 23:03:46.296 [Thread-4] INFO  p.logging.MyRepository - [1117a021-3e65-41f8-b91b-6d5226543a0c] - Repository Save
+2024-04-30 23:03:46.298 [Thread-3] INFO  p.logging.MyRepository - [b7a84b79-af77-4f00-a4db-93d4e198c77c] - Repository Save
